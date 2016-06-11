@@ -1,0 +1,5 @@
+ *.bigdump
+ *.ckpt
+ *.meta
+ *.numpy
+ *.caffemodel
