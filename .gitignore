@@ -3,6 +3,7 @@
 *.ckpt
 *.meta
 *.numpy
+*.caffemodel
 
 # Other generally useful ignores
 *.seq
